@@ -1,2 +1,2 @@
 print("Hello, Docker and Git!")
-print("This is version 5")
+print("This is version 6")
