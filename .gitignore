@@ -1,4 +1,19 @@
+# Python Bytecode
 __pycache__/
 *.pyc
+
+# Environment variable files
 .env
+
+# VS Code settings
 .vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store          # macOS
+thumb.db           # Windows
+
+# Ignore local configuration files
+*.local            # Common pattern for local-only configs
